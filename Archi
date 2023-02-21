@@ -1,11 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T19:53:55.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="YS12xVivTszn1k8-95Oh" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T20:06:58.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="x_nhj4XtxC5AcmakjG5y" version="20.8.22" type="github">
   <diagram name="Page-1" id="_vOZUSAYG1LpBXYgnsAY">
-    <mxGraphModel dx="737" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="m7LiqNCkUDzEotsD1Xdx-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="330" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="81.63" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="136" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SSIS_Lift_And_Shift_IR.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="62" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Process_Explorer.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="40" width="70" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="60" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/other/Storage_Tasks.svg;" vertex="1" parent="1">
+          <mxGeometry x="242" y="490" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server_rack" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="580" y="335" width="116.67" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-14" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" vertex="1" parent="1">
+          <mxGeometry x="352" y="430" width="111" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.enterprise.database_server" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.central_administration_site_sql" vertex="1" parent="1">
+          <mxGeometry x="444" y="160" width="96" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.roles" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.roles" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-19" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenserver;" vertex="1" parent="1">
+          <mxGeometry x="84" y="400" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-20" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xendesktop_server;" vertex="1" parent="1">
+          <mxGeometry x="100" y="259" width="75" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-21" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-22" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_server;" vertex="1" parent="1">
+          <mxGeometry x="680" y="510" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-23" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_services;" vertex="1" parent="1">
+          <mxGeometry x="330" y="599" width="76" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-24" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_web;" vertex="1" parent="1">
+          <mxGeometry x="540" y="558" width="76" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-25" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xencenter;" vertex="1" parent="1">
+          <mxGeometry x="654" y="421" width="76" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-26" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenclient_synchronizer;fillColor=#CCCCCC;gradientColor=#000000;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="276" y="378" width="76" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-27" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.radius_server;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="75.5" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-28" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.radius_server;" vertex="1" parent="1">
+          <mxGeometry x="355" y="130" width="75.5" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-29" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="310" y="15" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenclient;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="91" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-31" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.monitoring_store;" vertex="1" parent="1">
+          <mxGeometry x="175" y="820" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-32" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_public_folder;" vertex="1" parent="1">
+          <mxGeometry x="400" y="770" width="53" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.video_interop_server;" vertex="1" parent="1">
+          <mxGeometry x="249" y="970" width="54" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.skype_for_business_back_end_server;" vertex="1" parent="1">
+          <mxGeometry x="176" y="700" width="54" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7LiqNCkUDzEotsD1Xdx-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.monitoring_sql_reporting_services;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="50" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
